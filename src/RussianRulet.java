@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class Main {
+public class RussianRulet {
     private static int[] generateNumber(int level1) {
 
         int[] arr = new int[level1];
